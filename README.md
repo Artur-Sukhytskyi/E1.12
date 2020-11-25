@@ -1,5 +1,5 @@
 [![Travis][build-badge]][build]
 
-[build-badge]: https://img.shields.io/travis/K1ng-Arthur/E1.12/master.png?style=flat-square
+[build-badge]: https://img.shields.io/travis/Artur-Sukhytskyi/E1.12/master.png?style=flat-square
 
-[build]: https://travis-ci.org/K1ng-Arthur/E1.12
+[build]: https://travis-ci.org/Artur-Sukhytskyi/E1.12
